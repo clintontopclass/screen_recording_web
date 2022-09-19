@@ -12,10 +12,10 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  js: ^0.6.2
-  platform_detect: ^1.4.0
-  plugin_platform_interface: ^2.0.2
-  meta: ^1.0.5
+  js:
+  platform_detect:
+  plugin_platform_interface:
+  meta:
 
 dev_dependencies:
   flutter_test:
